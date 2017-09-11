@@ -1,5 +1,5 @@
 # Academic-information-system
-An information system for high school whose function is to concentrate all the academic information available in the organization.
+An information system for high schools whose function is to concentrate all the academic information available in the organization.
 The aims of the system are:
 •	Compute all the activities of teachers, especially those related to teaching.
 •	Filing student activities and learning assessments.
